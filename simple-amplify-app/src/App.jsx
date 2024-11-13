@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  return <div>Hello From Amplify</div>
+  return <div>Hello From React</div>
 }
 
 export default App
